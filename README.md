@@ -8,9 +8,13 @@ Navigating the terminal is fundamental to being productive in this field. If you
 * __Installing a VM (Windows Only):__ https://www.tutorialspoint.com/virtualization2.0/virtualization2.0_virtualbox.htm
 * __Linux for Beginners:__ http://www.ee.surrey.ac.uk/Teaching/Unix/
 * __Vim for Beginners:__ https://eastmanreference.com/a-quick-start-guide-for-beginners-to-the-vim-text-editor
+* __Bash for Beginners (Extra):__ https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 
 ## Step 2 - Install and Familiarize Yourself with `git`
-- write stuff about git
+`git` is a version control system (VCS). A VCS solves the classic problem of tracking incremental changes to a document while retaining prior versions. This may not seem like a big deal (just make a new copy???), but in the context of software development where changes happen daily, code bases span hundreds of files, and a single misplaced character can break the whole system, it is invaluable. To get familiar with the core concepts of a VCS and learn `git` itself, refer to the following resources.
+* __Official Git Installation:__ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+* __Official Git Tutorial:__ https://git-scm.com/docs/gittutorial
+* __Integrating Git and GitHub:__ https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 ## Step 3 - Complete a Python Tutorial
 - write stuff about python

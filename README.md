@@ -4,7 +4,10 @@
 We are glad you have an interest in the work we do here. Consider this repository as the syllabus for your introductory course in computational materials science. Due to the computational nature of our work, our members should be familiar with using basic linux commands in the terminal and have some programming experience (preferably in Python). If you know nothing about either, have no fear, this guide will teach you!
 
 ## Step 1 - Practice Some Basic Linux Commands
-- write stuff about linux commands
+Navigating the terminal is fundamental to being productive in this field. If you have never opened a terminal before, the concept of a GUI-less interface may be a bit intimidating. However, in time, you will surely understand the efficiency boost and may even come to use it for daily operations. The following resources will teach you the basics.
+* __Installing a VM (Windows Only):__ https://www.tutorialspoint.com/virtualization2.0/virtualization2.0_virtualbox.htm
+* __Linux for Beginners:__ http://www.ee.surrey.ac.uk/Teaching/Unix/
+* __Vim for Beginners:__ https://eastmanreference.com/a-quick-start-guide-for-beginners-to-the-vim-text-editor
 
 ## Step 2 - Install and Familiarize Yourself with `git`
 - write stuff about git

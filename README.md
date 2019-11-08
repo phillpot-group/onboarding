@@ -24,6 +24,7 @@ Python is one of the most popular languages in use today and has a wide range of
 
 ## Step 4 - Get an Account on HiPerGator
 HiPerGator is the High Performance Computing (HPC) cluster we use to execute our simulations. The HiPerGator interface is terminal only, so all of the practice you have done in the prior steps will finally pay off! The official UFRC guide to setting up an account and logging in is linked below.
+* __UFRC New User Welcome:__ https://www.rc.ufl.edu/services/hipergator/new-user-welcome/
 * __Official UFRC HiPerGator Tutorial:__ https://help.rc.ufl.edu/doc/Getting_Started
 
 ## Step 5 - Run Some Simulations!
